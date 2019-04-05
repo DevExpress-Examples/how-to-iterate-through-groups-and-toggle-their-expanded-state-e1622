@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Window1.xaml](./CS/ToggleGroupExpandedState/Window1.xaml) (VB: [Window1.xaml.vb](./VB/ToggleGroupExpandedState/Window1.xaml.vb))
+* [Window1.xaml](./CS/ToggleGroupExpandedState/Window1.xaml) (VB: [Window1.xaml](./VB/ToggleGroupExpandedState/Window1.xaml))
 * [Window1.xaml.cs](./CS/ToggleGroupExpandedState/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/ToggleGroupExpandedState/Window1.xaml.vb))
 <!-- default file list end -->
 # How to iterate through groups and toggle their expanded state
